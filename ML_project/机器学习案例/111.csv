@@ -1,0 +1,30 @@
+,score
+Site EUI (kBtu/ft²),-0.7238643844646085
+Weather Normalized Site EUI (kBtu/ft²),-0.7139933913736671
+Weather Normalized Source EUI (kBtu/ft²),-0.6455419536024284
+Source EUI (kBtu/ft²),-0.6410367343698771
+Weather Normalized Site Electricity Intensity (kWh/ft²),-0.3583940444172636
+Weather Normalized Site Natural Gas Intensity (therms/ft²),-0.34604586428757245
+Direct GHG Emissions (Metric Tons CO2e),-0.14779180701852163
+Weather Normalized Site Natural Gas Use (therms),-0.13521116490750726
+Natural Gas Use (kBtu),-0.1336475849562848
+Year Built,-0.12124882071897987
+Total GHG Emissions (Metric Tons CO2e),-0.11313567384890388
+Electricity Use - Grid Purchase (kBtu),-0.05063924713818849
+Weather Normalized Site Electricity (kWh),-0.04820660532773519
+Latitude,-0.04819602045740381
+Property Id,-0.04660456933957655
+Indirect GHG Emissions (Metric Tons CO2e),-0.04398221531295686
+Longitude,-0.0374551488618291
+Occupancy,-0.03321460046894965
+Number of Buildings - Self-reported,-0.022407190319786406
+Water Use (All Water Sources) (kgal),-0.01368053712922157
+Water Intensity (All Water Sources) (gal/ft²),-0.01214766254458965
+Census Tract,-0.002298695372755973
+DOF Gross Floor Area,0.013001469657124733
+Property GFA - Self-Reported (ft²),0.01736023424048284
+Largest Property Use Type - Gross Floor Area (ft²),0.018329622188820147
+Order,0.03682721867775316
+Community Board,0.05661230008192645
+Council District,0.06163904544273781
+score,1.0
