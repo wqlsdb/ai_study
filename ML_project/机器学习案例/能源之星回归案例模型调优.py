@@ -141,6 +141,9 @@ def model_param01(X,y):
     # pd.DataFrame(random_cv.cv_results_).to_csv('./cv_results.csv')
     print('调优结果展示->\n', random_cv.cv_results_)
 
+# 参数精调, 当前拿树的棵树参数进行精调
+# def model_param02(X, y):
+
 if __name__ == '__main__':
     X, X_test, y, y_test = load_data_features()
     # train(X, X_test, y, y_test)
